@@ -2,6 +2,10 @@
 font-family: "Roboto", sans-serif;
 scroll-behavior: smooth;
 }
+body{
+
+   
+}
 .container{
 
 max-width: 1170px;
@@ -819,7 +823,7 @@ input[type="submit"] {
 
 .back-top {
     position: absolute;
-    right: -97px;
+    right: -38px;
     top: 44%;
 }
 
@@ -842,7 +846,6 @@ input[type="submit"] {
     margin-bottom: 20px;
 }
 
-.tab-bar
 
 
 
