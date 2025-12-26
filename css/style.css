@@ -829,23 +829,6 @@ input[type="submit"] {
 
 
 
-.category-tab {
-    width: 100%;
-    float: left;
-    margin-top: 100px;
-}
-
-
-.tab-bar {
-    width: 100%;
-    display: flex
-;
-    align-items: center;
-    justify-content: space-between;
-    border-bottom: 1px solid #ddd;
-    margin-bottom: 20px;
-}
-
 
 
 
